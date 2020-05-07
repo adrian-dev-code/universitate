@@ -1,6 +1,6 @@
 **Universiy management system**
 
-A simple and powerful management tool for any university, based on C++.
+**A simple and powerful management tool for any university, based on C++.**
 
 The system use a portable and completely functional real ***.txt*** database without SQL
 
