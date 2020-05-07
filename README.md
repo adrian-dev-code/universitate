@@ -13,5 +13,5 @@ The system use a portable and completely functional real ***.txt*** database wit
 **A flawless option to export all required datas to a .txt file in real time**
 [![small.gif](https://i.postimg.cc/Xvyd8hBD/small.gif)](https://postimg.cc/CZSRMcNj)
 
-**A clean, reliable and easy to modify code fully object-oriented**
+**A clean, reliable and easy to read object-oriented code**
 [![code.gif](https://i.postimg.cc/Pqd2FdhF/code.gif)](https://postimg.cc/nXw4XbXv)
