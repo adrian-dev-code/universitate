@@ -10,5 +10,5 @@ The system use a portable and completely functional real ***.txt*** database wit
 **A simple, ready to use interface without overcomplicated stuff**
 [![prima.gif](https://i.postimg.cc/TwMYXN7S/prima.gif)](https://postimg.cc/Mc58758b)
 
-**A flawless option to export all required datas to a .txt file**
+**A flawless option to export all required datas to a .txt file in real time**
 [![code.gif](https://i.postimg.cc/Pqd2FdhF/code.gif)](https://postimg.cc/nXw4XbXv)
