@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1588860466 source:c:\users\adrian\source\repos\universitate\universitate\main.cpp
+	<iostream>
+	"Teacher.hpp"
+
+1588865916 c:\users\adrian\source\repos\universitate\universitate\teacher.hpp
+	"includes.hpp"
+
+1588855587 c:\users\adrian\source\repos\universitate\universitate\includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"config.hpp"
+	<vector>
+	<string>
+
+1588866043 c:\users\adrian\source\repos\universitate\universitate\config.hpp
+
+1588867769 source:c:\users\adrian\source\repos\universitate\universitate\teacher.cpp
+	"includes.hpp"
+	"Teacher.hpp"
+
+1588868665 source:e:\proiecte\management_universitar\teacher.cpp
+	"includes.hpp"
+	"Teacher.hpp"
+
+1588868672 e:\proiecte\management_universitar\includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	"config.hpp"
+	<vector>
+	<string>
+
+1588866043 e:\proiecte\management_universitar\config.hpp
+
+1588865916 e:\proiecte\management_universitar\teacher.hpp
+	"includes.hpp"
+
+1588868787 source:e:\proiecte\management_universitar\main.cpp
+	<iostream>
+	"Teacher.hpp"
+

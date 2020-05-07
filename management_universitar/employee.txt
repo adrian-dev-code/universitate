@@ -1,0 +1,7 @@
+id	firstname	lastname	salary	age	retired	hasCredit	rate	AC	hasLeft sex
+1	Popescu		Gheorghe	3000	29	0	1	300	1	21	m
+2	Ionescu		Marin	4000	39	0	1	300	0	0	m
+3	Stegaru		Viorel	5200	49	0	1	300	0	0	m
+4	Negru	Stephan	1100	78	1	false	0	0	0	m
+5	Popescu		Stefana	3000	69	0	1	300	0	0	f
+
