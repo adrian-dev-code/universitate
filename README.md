@@ -1,4 +1,4 @@
-##**Universiy management**##
+**Universiy management system**
 
 A simple and powerful management tool for any university, based on C++.
 
